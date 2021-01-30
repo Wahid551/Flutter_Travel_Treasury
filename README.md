@@ -1,6 +1,6 @@
-# profile_ui_with_firebase
+# Flutter_Travel_Treasury_App
 
-A new Flutter application.
+A new Flutter Travel_Treasury_Application with Firebase Authentication and Firestore Cloud.
 
 ## Getting Started
 
