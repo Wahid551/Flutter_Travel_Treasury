@@ -1,6 +1,6 @@
 # Flutter_Travel_Treasury_App
 
-A new Flutter Travel_Treasury_Application with Firebase Authentication and Firestore Cloud.
+A new Flutter Travel Treasury Application with Firebase Authentication and Firestore Cloud.
 
 ## Getting Started
 
